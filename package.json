@@ -1,0 +1,14 @@
+{
+    "name": "getfullstack",
+    "version": "0.0.4",
+    "preferGlobal": true,
+    "description": "A CLI to download fullstack Vue NodeJS boilerplate",
+    "bin": {
+        "getfullstack": "index.js"
+    },
+    "main":"index.js",
+    "author": "Rajdeep Chandra",
+    "dependencies": {
+        "shelljs": "^0.8.4"
+    }
+}
