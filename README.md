@@ -15,3 +15,5 @@ In your terminal create a folder of your choice and RUN:
 get-fullstack-cli
 ```
 
+## Working Example
+![create-fullstack-cli](video.gif)
