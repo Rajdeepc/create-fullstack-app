@@ -16,4 +16,4 @@ get-fullstack-cli
 ```
 
 ## Working Example
-![create-fullstack-cli](video.gif?raw=true)
+![create-fullstack-cli](demo.gif?raw=true)
