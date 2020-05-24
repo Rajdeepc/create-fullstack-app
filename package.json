@@ -1,10 +1,10 @@
 {
-    "name": "getfullstack",
-    "version": "0.0.5",
+    "name": "get-fullstack-cli",
+    "version": "0.0.7",
     "preferGlobal": true,
     "description": "A CLI to download fullstack Vue NodeJS boilerplate",
     "bin": {
-        "getfullstack": "index.js"
+        "get-fullstack-cli": "index.js"
     },
     "main":"index.js",
     "git":"https://github.com/Rajdeepc/create-fullstack-app.git",
