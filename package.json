@@ -1,10 +1,10 @@
 {
-    "name": "get-fullstack-cli",
-    "version": "1.0.4",
+    "name": "get-fullstack-app",
+    "version": "1.0.6",
     "preferGlobal": true,
     "description": "A CLI to download fullstack Vue NodeJS boilerplate",
     "bin": {
-        "get-fullstack-cli": "index.js"
+        "get-fullstack-app": "index.js"
     },
     "keywords": [
         "cli",

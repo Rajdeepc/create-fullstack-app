@@ -5,14 +5,14 @@ A CLI to download fullstack Vue NodeJS boilerplate
 ## Installation
 
 ```
-npm i -g get-fullstack-cli
+npm i -g get-fullstack-app
 ```
 
 ## How to use
 
 In your terminal create a folder of your choice and RUN:
 ```
-get-fullstack-cli
+get-fullstack-app
 ```
 
 ## Working Example
