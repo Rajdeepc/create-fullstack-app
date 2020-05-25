@@ -11,4 +11,4 @@ if (!shell.which('git')) {
     }
   }
 
-shell.exec('git clone https://github.com/Rajdeepc/candidate-training-tracker.git');
+shell.exec('git clone https://github.com/Rajdeepc/vue-node-boilerplate.git');

@@ -16,4 +16,4 @@ get-fullstack-cli
 ```
 
 ## Working Example
-![create-fullstack-cli](demo.gif?raw=true)
+![create-fullstack-cli](https://github.com/Rajdeepc/create-fullstack-app/blob/master/demo.gif?raw=true)
