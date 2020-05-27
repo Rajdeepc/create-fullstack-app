@@ -1,10 +1,14 @@
 {
     "name": "get-fullstack-cli",
-    "version": "1.0.6",
+    "version": "2.0.0",
     "preferGlobal": true,
     "description": "A CLI to download fullstack Vue NodeJS boilerplate",
     "bin": {
         "get-fullstack-cli": "index.js"
+    },
+    "homepage": "https://github.com/Rajdeepc/vue-node-boilerplate",
+    "repository": {
+        "git":"https://github.com/Rajdeepc/vue-node-boilerplate.git"
     },
     "keywords": [
         "cli",
@@ -12,7 +16,6 @@
         "fullstack-cli"
     ],
     "main":"index.js",
-    "git":"https://github.com/Rajdeepc/create-fullstack-app.git",
     "author": "Rajdeep Chandra",
     "dependencies": {
         "shelljs": "^0.8.4"
